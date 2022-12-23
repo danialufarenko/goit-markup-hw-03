@@ -236,6 +236,7 @@ header .container {
 .team-items {
   width: calc((100% - 90px) / 4);
   border: 1px solid #eeeeee;
+  margin-bottom: 94px;
 }
 .team-subject {
   font-weight: 500;
@@ -359,7 +360,7 @@ header .container {
   line-height: 36px;
   letter-spacing: 0.06em;
   color: #212121;
-  margin: 24px 20px 4px 24px;
+  margin: 24px 20px 4px 20px;
   width: 322px;
 }
 .subtitle {
